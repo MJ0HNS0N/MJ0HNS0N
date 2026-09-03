@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+- 😄 Hi! My name is Michelle Johnson
+- 🌱 I am a Computer Engineering Undergraduate Student at San Diego State with a Minor in Ceramics
+- 🔭 I am interested in learning more about the intersection of technology and art
 
 <!--
 **MJ0HNS0N/MJ0HNS0N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
